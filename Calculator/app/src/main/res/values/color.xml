@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="GrisBackground" > #DFDBDB</color>
+    <color name="RedBackground" > #BA2D2D</color>
+
+<!--botones-->
+    <color name="blanco" > #FFFFFF</color>
+    <color name="GrisBoton" > #BDBDBD</color>
+    <color name="NegroBoton" > #000000</color>
+    <color name="AzulBoton" > #7DA9BC</color>
+
+</resources>

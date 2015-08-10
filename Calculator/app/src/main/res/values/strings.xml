@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="txtCalculadora">Calculadora</string>
+<!-- Numeros de la calculadora -->
+    <string name="txtbtnCero">0</string>
+    <string name="txtbtnUno">1</string>
+    <string name="txtbtnDos">2</string>
+    <string name="txtbtnTres">3</string>
+    <string name="txtbtnCuatro">4</string>
+    <string name="txtbtnCinco">5</string>
+    <string name="txtbtnSeis">6</string>
+    <string name="txtbtnSiete">7</string>
+    <string name="txtbtnOcho">8</string>
+    <string name="txtbtnNueve">9</string>
+    <!-- Fin de numeros calculadora -->
+
+    <!-- Operaciones -->
+    <string name="txtbtnAC">AC</string>
+    <string name="txtbtnCE">CE</string>
+    <string name="txtbtnSuma">+</string>
+    <string name="txtbtnResta">-</string>
+    <string name="txtbtnMultiplicacion">*</string>
+    <string name="txtbtnDivision">/</string>
+    <string name="txtbtnIgual">=</string>
+    <!-- Fin de operaciones -->
+
+</resources>
